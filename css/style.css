@@ -1,0 +1,9 @@
+* {
+  border: 2px solid red;
+}
+body {
+  background-color: rgb(228, 193, 147);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: rgb(46, 65, 65);
+}
